@@ -1,0 +1,40 @@
+Xft.dpi:        96
+Xft.autohint: 0
+Xft.antialias:  1
+Xft.rgba:       rgb
+Xft.hinting:    1
+Xft.hintstyle:  hintslight
+Xft.lcdfilter: lcddefault
+
+!xft:Bitstream Vera Sans Mono:size=11:antialias=true
+URxvt.font:     xft:Menlo:size=8:antialias=true
+URxvt.boldFont: xft:Menlo:bold:size=8:antialias=true
+
+URxvt*letterSpace: -1
+URxvt.scrollBar: false
+
+URxvt*transparent: true
+URxvt*shading: 25
+
+*.background:  #181818
+*.foreground:  #efefef
+
+! normal colors: "black", red, green, yellow, blue, magenta, cyan, "white"
+*.color0:      #252525
+*.color1:      #ed4a46
+*.color2:      #70b433
+*.color3:      #dbb32d
+*.color4:      #368aeb
+*.color5:      #eb6eb7
+*.color6:      #3fc5b7
+*.color7:      #999999
+
+! bright/bold versions of colors (in the same order)
+*.color8:      #3b3b3b
+*.color9:      #ff5e56
+*.color10:     #83c746
+*.color11:     #efc541
+*.color12:     #4f9cfe
+*.color13:     #ff81ca
+*.color14:     #56d8c9
+*.color15:     #dedede

@@ -4,7 +4,7 @@ Xft.antialias:  1
 Xft.rgba:       rgb
 Xft.hinting:    1
 Xft.hintstyle:  hintslight
-Xft.lcdfilter: lcddefault
+Xft.lcdfilter: lcdlight
 
 !xft:Bitstream Vera Sans Mono:size=11:antialias=true
 URxvt.font:     xft:Menlo:size=8:antialias=true

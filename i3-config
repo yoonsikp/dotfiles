@@ -166,6 +166,9 @@ bar {
         font pango:DejaVu Sans 10
 }
 
+# Firefox fix
+for_window [class="Firefox"] border pixel 0
+
 exec --no-startup-id feh --bg-scale ~/Pictures/wallpaper.jpg
 # For compositor
 # exec compton -b --backend glx --paint-on-overlay --glx-swap-method 4
